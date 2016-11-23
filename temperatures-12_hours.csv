@@ -1,16 +1,4 @@
 timestamp,kitchen_temp [deg C],heating_temp [deg C],balcony_temp [deg C]
-1479880263,None,None,None
-1479880562,None,None,None
-1479880862,None,None,None
-1479881162,None,None,None
-1479881463,None,None,None
-1479881762,None,None,None
-1479882062,None,None,None
-1479882362,None,None,None
-1479882662,None,None,None
-1479882963,None,None,None
-1479883262,None,None,None
-1479883562,None,None,None
 1479883862,None,None,None
 1479884162,None,None,None
 1479884462,None,None,None
@@ -143,3 +131,15 @@ timestamp,kitchen_temp [deg C],heating_temp [deg C],balcony_temp [deg C]
 1479922562,None,None,None
 1479922863,None,None,None
 1479923163,None,None,None
+1479923462,None,None,None
+1479923762,None,None,None
+1479924063,None,None,None
+1479924362,None,None,None
+1479924662,None,None,None
+1479924962,None,None,None
+1479925262,None,None,None
+1479925562,None,None,None
+1479925862,None,None,None
+1479926163,None,None,None
+1479926462,None,None,None
+1479926762,None,None,None
