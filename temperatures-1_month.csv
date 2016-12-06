@@ -1,5 +1,4 @@
 timestamp,kitchen_temp [deg C],heating_temp [deg C],balcony_temp [deg C]
-1477872782,25.25,47.875,3.75
 1477887182,None,48.375,3.875
 1477901582,24.312,48.312,3.312
 1477915982,24.625,47.75,6.25
@@ -179,3 +178,4 @@ timestamp,kitchen_temp [deg C],heating_temp [deg C],balcony_temp [deg C]
 1480997583,None,55.75,-3.625
 1481011983,None,None,None
 1481026382,None,None,None
+1481040782,None,None,None
