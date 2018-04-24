@@ -1,5 +1,4 @@
 timestamp,ping_google.com [ms]
-1522343282,43.3
 1522346882,42.9
 1522350482,50.7
 1522354082,42.6
@@ -167,3 +166,4 @@ timestamp,ping_google.com [ms]
 1524618482,None
 1524622082,None
 1524625682,None
+1524629282,None
